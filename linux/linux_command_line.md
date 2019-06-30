@@ -1,4 +1,4 @@
-[< go back](https://github.com/Alienxk/Notes)
+[< go back to 'Notes'](https://github.com/Alienxk/Notes)
 
 ## Linux command line
 
