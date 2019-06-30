@@ -1,5 +1,7 @@
 ## Linux command line
 
+[go back] (https://github.com/Alienxk/Notes)
+
 **Change directory "cd":**
 - `cd` go to the 'home' directory.
 - `cd /` go to the root directory.
