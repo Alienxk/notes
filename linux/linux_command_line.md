@@ -1,13 +1,16 @@
 ## Linux command line
 
-**change directory "cd"**
+**Change directory "cd"**
+- `cd` go to the 'home' directory.
+- `cd /` go to the root directory.
+- `cd ..` go to the parent directory.
+- `cd ../..` go to multiple levels of parent directories.
+- `cd Documents/` go to the 'Documents' directory.
+- `cd ~/Documents/` go to the 'Documents' directory (starts from home directory).
+- `cd /home/[USERNAME]/Documents` go to the 'Documents' directory (from anywhere).
 
-`cd Documents/` go to the 'Documents' directory
+**Print working directory "pwd"**
+- `pwd` prints the current directory.
 
-`cd ..` go to the parent directory `cd ../..`
-
-`cd` go to the 'home' directory
-
-**print working directory "pwd"**
-
-pwd
+**Who am I "whoami"**
+- `whoami` prints the USERNAME
