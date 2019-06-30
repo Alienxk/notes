@@ -1,6 +1,6 @@
 ## Linux command line
 
-[go back] (https://github.com/Alienxk/Notes)
+[go back](https://github.com/Alienxk/Notes)
 
 **Change directory "cd":**
 - `cd` go to the 'home' directory.
