@@ -15,17 +15,17 @@
 - `pwd` prints the current directory *path*.
 
 **Who am I "whoami":**
-- `whoami` prints the *USERNAME*
+- `whoami` prints the *USERNAME*.
 
 **Make directory "mkdir":**
-- `mkdir dir` creates a subdirectory called *dir*
-- `mkdir *dir 1*` creates a subdirectory called *dir 1*
-- `mkdir dir1 dir2` creates two subdirectories called *dir1* and *dir2*
-- `mkdir -p dir1/dir2/` creates *dir2* inside *dir1*
+- `mkdir dir` creates a subdirectory called *dir*.
+- `mkdir *dir 1*` creates a subdirectory called *dir 1*.
+- `mkdir dir1 dir2` creates two subdirectories called *dir1* and *dir2*.
+- `mkdir -p dir1/dir2/` creates *dir2* inside *dir1*.
 
 **List "ls"**
-- `ls` lists all files and subdirectories of the current directory
-- `ls > file.txt` save the output of *ls* command in *file.txt*
+- `ls` lists all files and subdirectories of the current directory.
+- `ls > file.txt` save the output of *ls* command in *file.txt*.
 
 **Concatenate "cat"**
-- `cat file.txt`
+- `cat file.txt`.
