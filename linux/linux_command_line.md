@@ -19,7 +19,7 @@
 
 **Make directory "mkdir":**
 - `mkdir dir` creates a subdirectory called *dir*.
-- `mkdir *dir 1*` creates a subdirectory called *dir 1*.
+- `mkdir "dir 1"` creates a subdirectory called *dir 1*.
 - `mkdir dir1 dir2` creates two subdirectories called *dir1* and *dir2*.
 - `mkdir -p dir1/dir2/` creates *dir2* inside *dir1*.
 
